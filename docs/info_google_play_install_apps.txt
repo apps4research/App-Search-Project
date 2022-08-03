@@ -1,0 +1,1 @@
+In order to install an APP from Google Play store you must be logged into your Google Account. As long as your IP address matches the country that the developer has set as a country that may download his/her app, you can download and install it.
